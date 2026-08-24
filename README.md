@@ -244,39 +244,7 @@ Structured Markdown Report
 
 ---
 
-# 📂 Project Structure
 
-```text
-📦 deep-research-mcp-server
-
-├── 📂 src
-│   │
-│   ├── 📂 ai
-│   │   ├── providers.ts
-│   │   └── text-splitter.ts
-│   │
-│   ├── 📄 deep-research.ts
-│   ├── 📄 mcp-server.ts
-│   ├── 📄 prompt.ts
-│   ├── 📄 feedback.ts
-│   ├── 📄 output-manager.ts
-│   ├── 📄 progress-manager.ts
-│   ├── 📄 terminal-utils.ts
-│   ├── 📄 types.ts
-│   │
-│   └── 📂 utils
-│       └── JSON / sanitization helpers
-│
-├── 📂 dist
-│   └── Build output
-│
-├── 📄 .env.example
-├── 📄 package.json
-├── 📄 README.md
-└── 📄 tsconfig.json
-```
-
----
 
 # 💻 Tech Stack
 
